@@ -12,7 +12,11 @@
   - [CompTIA Net+](https://github.com/)
   - [CompTIA Sec+](https://github.com/)
   - [IBM Introduction to Cybersecurity Tools & Cyber Attacks](https://www.credly.com/earner/earned/badge/697b4e87-3a37-49a9-92ac-a93a1fadd931)
-  
+  - [BCS Level 3 Award in Coding and Logic](https://github.com/)
+  - [BCS Level 3 Award in Mobile and Operating Systems](https://github.com/)
+  - [BCS Level 3 Award in Business Processes](https://github.com/)
+  - [BCS Level 3 Award in Cloud Services](https://github.com/)
+  - [Google Cloud Platform Fundamentals: Core Infrastructure](https://www.coursera.org/account/accomplishments/certificate/LAT9UQTU4QGG)
 
 <h2>📺 Popular YouTube Videos</h2>
 
