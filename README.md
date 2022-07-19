@@ -4,6 +4,17 @@
 
   - [Active Directory Home Lab](https://github.com/)
   - [Hello World! Tutorial](https://github.com/)
+  - [Packet Sniffer](https://github.com/)
+  - [Azure Sentinal Lab](https://github.com/)
+  - [Keylogging](https://github.com/)
+  - [Lost Data Retrieval ](https://github.com/)
+  - [Tool Comparison Technical Guide](https://github.com/)
+  - [SQL Injection](https://github.com/)
+  - [RFID Blocking](https://github.com/)
+  - [Security Assessment Report on an Existing Website](https://github.com/)
+  - [Build Your Own Encryption Software](https://github.com/)
+  - [Create a Cybersecurity Policy from Scratch](https://github.com/)
+  - [Hack an Android Device](https://github.com/)
   
   
  <h2>📜 Certifactions</h2>
