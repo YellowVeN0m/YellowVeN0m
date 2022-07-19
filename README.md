@@ -8,7 +8,7 @@
   
  <h2>📜 Certifactions</h2>
   
-  - [CompTIA A+](https://github.com/)
+  - [CompTIA A+](https://www.credly.com/earner/earned/badge/7f718f30-f336-4b2c-a9a6-51db5cab5542)
   - [CompTIA Net+](https://github.com/)
   - [CompTIA Sec+](https://github.com/)
   
